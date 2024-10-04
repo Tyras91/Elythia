@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event name="Otservbr example 1" startdate="11/03/2020" enddate="12/30/2028" script="">
+        <ingame exprate="100" lootrate="100" bosslootrate="100" spawnrate="35" skillrate="100" />
+        <description description="Elythia Time" />
+        <colors colordark="#235c00" colorlight="#2d7400" />
+        <details displaypriority="6" isseasonal="0" specialevent="0" />
+    </event>
+    <event name="Otservbr example 2" startdate="2/2/2022" enddate="12/31/2023" script="">
+        <ingame exprate="100" lootrate="100" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill" />
+        <colors colordark="#735D10" colorlight="#8B6D05" />
+        <details displaypriority="6" isseasonal="0" specialevent="0" />
+    </event>
+    <globalevent name="DoubleExperience" script="events/double_experience.lua" />
+
+    <!-- Double Experience Weekends 2024 -->
+    <event name="Double Exp Weekend 1" startdate="09/06/2024" enddate="09/08/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 2" startdate="09/13/2024" enddate="09/15/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 3" startdate="09/20/2024" enddate="09/22/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 4" startdate="09/27/2024" enddate="09/29/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 5" startdate="10/04/2024" enddate="10/06/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 6" startdate="10/11/2024" enddate="10/13/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 7" startdate="10/18/2024" enddate="10/20/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 8" startdate="10/25/2024" enddate="10/27/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 9" startdate="11/01/2024" enddate="11/03/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 10" startdate="11/08/2024" enddate="11/10/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 11" startdate="11/15/2024" enddate="11/17/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 12" startdate="11/22/2024" enddate="11/24/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 13" startdate="11/29/2024" enddate="12/01/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 14" startdate="12/06/2024" enddate="12/08/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 15" startdate="12/13/2024" enddate="12/15/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+    <event name="Double Exp Weekend 16" startdate="12/20/2024" enddate="12/22/2024" script="">
+        <ingame exprate="200" lootrate="200" bosslootrate="100" spawnrate="100" skillrate="100" />
+        <description description="Double experience weekend!" />
+        <colors colordark="#FF0000" colorlight="#FF4500" />
+        <details displaypriority="5" isseasonal="0" specialevent="1" />
+    </event>
+</events>
