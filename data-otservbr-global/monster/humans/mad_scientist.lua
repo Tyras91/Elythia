@@ -82,6 +82,7 @@ monster.loot = {
 	{ id = 3046, chance = 2000 }, -- magic light wand
 	{ name = "life crystal", chance = 2000 },
 	{ name = "cookie", chance = 1200, maxCount = 5 },
+	{ id = 6393, chance = 1200 }, -- cream cake
 	{ name = "white mushroom", chance = 8000, maxCount = 3 },
 	{ name = "mastermind potion", chance = 130 },
 	{ name = "health potion", chance = 19000 },
