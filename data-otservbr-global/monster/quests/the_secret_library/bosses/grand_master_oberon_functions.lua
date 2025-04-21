@@ -12,7 +12,7 @@ GrandMasterOberonAsking = {
 	[6] = { msg = "Dragons will soon rule this world, I am their herald!" },
 	[7] = { msg = "The true virtue of chivalry are my belief!" },
 	[8] = { msg = "I lead the most honourable and formidable following of knights!" },
-	[9] = { msg = "ULTAH SALID'AR, ESDO LO!" },
+	[9] = { msg = "ULTAH SALID'AR, ESDO LO" },
 }
 
 GrandMasterOberonResponses = {
