@@ -34,8 +34,8 @@ monster.speed = 195
 monster.manaCost = 0
 
 monster.changeTarget = {
-	interval = 4000,
-	chance = 10,
+	interval = 0,
+	chance = 0,
 }
 
 monster.strategiesTarget = {
