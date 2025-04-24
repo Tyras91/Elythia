@@ -623,7 +623,7 @@ QuestDoorAction = {
 		itemPos = { { x = 33216, y = 31671, z = 13 } },
 	},
 	-- Svargrond arena door
-	[Storage.SvargrondArena.PitDoor] = {
+	[Storage.Quest.U8_0.BarbarianArena.PitDoor] = {
 		itemId = false,
 		itemPos = {
 			{ x = 32233, y = 31098, z = 7 },
